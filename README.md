@@ -6,3 +6,4 @@
 
 1. Variables, If-Else, Loops, Reading Text Files (`io` package)
 2. Type Annotations, Switch-Case
+3. Functions, Filtering Lists
