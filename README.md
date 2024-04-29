@@ -4,4 +4,5 @@
 
 ### Learnings
 
-1. Variables, If-Else, Loops, Map, Reading Text Files (`io` package)
+1. Variables, If-Else, Loops, Reading Text Files (`io` package)
+2. Type Annotations, Switch-Case
